@@ -1,0 +1,2 @@
+[29-Mar-2017 03:29:14 UTC] WordPress database error Unknown column 'wp_' in 'field list' for query SELECT wp_
+[29-Mar-2017 03:35:05 UTC] WordPress database error Unknown column 'wp_event' in 'field list' for query SELECT wp_event
